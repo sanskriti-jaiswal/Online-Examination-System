@@ -26,7 +26,7 @@ Exit the application after completing the test.
 
 # How to Run the Project
 Clone the repository
-git clone https://github.com/your-repo/OIBSIP_task4.git
+git clone https://github.com/sanskriti-jaiswal/Online-Examination-System.git
 
 Navigate to the project folder
 cd OIBSIP_task4
