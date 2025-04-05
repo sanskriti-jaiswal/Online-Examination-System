@@ -6,6 +6,8 @@ This project is a Java Swing-based Online Examination System designed to provide
 # Project Overview
 The Online Examination System is a standalone Java application that enables users to take a multiple-choice exam with a real-time scoring system. It incorporates essential features like instant score calculation, question bookmarking, and a user-friendly UI for a seamless experience.
 
+![image](https://github.com/user-attachments/assets/bcb65108-c417-4359-b86c-39a4d3759bb6)
+
 # Key Features
 ✅ User-Friendly Exam Portal – Simple and interactive UI for taking tests.
 ✅ 15 Multiple-Choice Questions – A structured quiz with real-time progress tracking.
